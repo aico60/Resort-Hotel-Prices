@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Resort Hotel Prices/1.0.0": {
+        "runtime": {
+          "Resort Hotel Prices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resort Hotel Prices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

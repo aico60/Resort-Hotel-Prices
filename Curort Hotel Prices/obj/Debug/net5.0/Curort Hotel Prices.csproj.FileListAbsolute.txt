@@ -1,0 +1,16 @@
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\bin\Debug\net5.0\Curort Hotel Prices.exe
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\bin\Debug\net5.0\Curort Hotel Prices.deps.json
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\bin\Debug\net5.0\Curort Hotel Prices.runtimeconfig.json
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\bin\Debug\net5.0\Curort Hotel Prices.runtimeconfig.dev.json
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\bin\Debug\net5.0\Curort Hotel Prices.dll
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\bin\Debug\net5.0\ref\Curort Hotel Prices.dll
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\bin\Debug\net5.0\Curort Hotel Prices.pdb
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\Curort Hotel Prices.csprojAssemblyReference.cache
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\Curort Hotel Prices.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\Curort Hotel Prices.AssemblyInfoInputs.cache
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\Curort Hotel Prices.AssemblyInfo.cs
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\Curort Hotel Prices.csproj.CoreCompileInputs.cache
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\Curort Hotel Prices.dll
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\ref\Curort Hotel Prices.dll
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\Curort Hotel Prices.pdb
+D:\IT Academy\Demo 1\Curort Hotel Prices\Curort Hotel Prices\obj\Debug\net5.0\Curort Hotel Prices.genruntimeconfig.cache
